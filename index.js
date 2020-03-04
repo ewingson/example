@@ -14,4 +14,5 @@ function example(string)
 //return value
   return newString;
 };
+//set export
 module.exports = example;
