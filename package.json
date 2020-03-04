@@ -1,6 +1,6 @@
 {
   "name": "@ewingson/example",
-  "version": "^1.0.0",
+  "version": "1.0.0",
   "description": "turns a string backwards",
   "license": "MIT",
   "repository": "ewingson/example",
