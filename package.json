@@ -6,6 +6,7 @@
   "repository": "ewingson/example",
   "main": "index.js",
   "keywords": [
+    "example",
     "backwards",
     "npm",
     "package",
