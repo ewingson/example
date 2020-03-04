@@ -1,0 +1,25 @@
+{
+  "name": "@ewingson/example",
+  "version": "1.0.0",
+  "description": "turns a string backwards",
+  "license": "MIT",
+  "repository": "ewingson/example",
+  "main": "index.js",
+  "keywords": [
+    "backwards",
+    "npm",
+    "package",
+    "string"
+  ],
+"homepage": "https://github.com/ewingson/example",
+"bugs": {
+    "url": "https://github.com/ewingson/example/issues",
+    "email": "meisdata@gmail.com"
+  },
+"scripts": {
+    "test": "nonsense"
+  },
+"author": "Matthias Evering <meisdata@gmail.com> (https://configedit.wordpress.com)",
+  "license": "MIT",
+  "private": false
+}
