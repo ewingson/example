@@ -8,3 +8,23 @@
 (https://github.com/ewingson/example)
 
 It's modular.
+
+# Install
+
+```
+$ npm install @ewingson/example
+``
+
+# Usage
+
+```
+const example = require("@ewingson/example");
+
+example("012345");
+//=> "543210"
+
+tiny(012345);
+//=> Uncaught TypeError: @ewingson/example wants a string!
+//    at example (<anonymous>:5:42)
+//    at <anonymous>:1:1
+  ```
