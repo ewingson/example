@@ -13,7 +13,7 @@ It's modular.
 
 ```
 $ npm install @ewingson/example
-``
+```
 
 # Usage
 
